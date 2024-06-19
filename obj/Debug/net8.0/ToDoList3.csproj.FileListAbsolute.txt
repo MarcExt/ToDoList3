@@ -1,0 +1,6 @@
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.csproj.AssemblyReference.cache
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.AssemblyInfoInputs.cache
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.AssemblyInfo.cs
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.csproj.CoreCompileInputs.cache
+C:\Users\marc.ferreres.ext\Documents\pruebasMarc\ToDoList3\obj\Debug\net8.0\ToDoList3.MvcApplicationPartsAssemblyInfo.cache
